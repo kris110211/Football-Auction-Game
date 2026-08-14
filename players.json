@@ -1,0 +1,737 @@
+[
+  {
+    "pos": "FWD",
+    "tier": "T1",
+    "base": 30,
+    "name": "Kylian Mbappé",
+    "club": "RMA"
+  },
+  {
+    "pos": "FWD",
+    "tier": "T1",
+    "base": 30,
+    "name": "Erling Haaland",
+    "club": "MCI"
+  },
+  {
+    "pos": "FWD",
+    "tier": "T1",
+    "base": 30,
+    "name": "Lamine Yamal",
+    "club": "FCB"
+  },
+  {
+    "pos": "FWD",
+    "tier": "T1",
+    "base": 30,
+    "name": "Ousmane Dembélé",
+    "club": "PSG"
+  },
+  {
+    "pos": "FWD",
+    "tier": "T1",
+    "base": 30,
+    "name": "Harry Kane",
+    "club": "BAY"
+  },
+  {
+    "pos": "FWD",
+    "tier": "T1",
+    "base": 30,
+    "name": "Vinícius Júnior",
+    "club": "RMA"
+  },
+  {
+    "pos": "FWD",
+    "tier": "T1",
+    "base": 30,
+    "name": "Mohamed Salah",
+    "club": "LIV"
+  },
+  {
+    "pos": "FWD",
+    "tier": "T1",
+    "base": 30,
+    "name": "Raphinha",
+    "club": "FCB"
+  },
+  {
+    "pos": "FWD",
+    "tier": "T1",
+    "base": 30,
+    "name": "Lautaro Martínez",
+    "club": "INT"
+  },
+  {
+    "pos": "FWD",
+    "tier": "T1",
+    "base": 30,
+    "name": "Khvicha Kvaratskhelia",
+    "club": "PSG"
+  },
+  {
+    "pos": "MDF",
+    "tier": "T1",
+    "base": 30,
+    "name": "Rodri",
+    "club": "MCI"
+  },
+  {
+    "pos": "MDF",
+    "tier": "T1",
+    "base": 30,
+    "name": "Jude Bellingham",
+    "club": "RMA"
+  },
+  {
+    "pos": "MDF",
+    "tier": "T1",
+    "base": 30,
+    "name": "Pedri",
+    "club": "FCB"
+  },
+  {
+    "pos": "MDF",
+    "tier": "T1",
+    "base": 30,
+    "name": "Vitinha",
+    "club": "PSG"
+  },
+  {
+    "pos": "MDF",
+    "tier": "T1",
+    "base": 30,
+    "name": "Florian Wirtz",
+    "club": "LIV"
+  },
+  {
+    "pos": "MDF",
+    "tier": "T1",
+    "base": 30,
+    "name": "Jamal Musiala",
+    "club": "BAY"
+  },
+  {
+    "pos": "MDF",
+    "tier": "T1",
+    "base": 30,
+    "name": "Declan Rice",
+    "club": "ARS"
+  },
+  {
+    "pos": "MDF",
+    "tier": "T1",
+    "base": 30,
+    "name": "Federico Valverde",
+    "club": "RMA"
+  },
+  {
+    "pos": "MDF",
+    "tier": "T1",
+    "base": 30,
+    "name": "Cole Palmer",
+    "club": "CHE"
+  },
+  {
+    "pos": "MDF",
+    "tier": "T1",
+    "base": 30,
+    "name": "Michael Olise",
+    "club": "BAY"
+  },
+  {
+    "pos": "DEF",
+    "tier": "T1",
+    "base": 30,
+    "name": "Achraf Hakimi",
+    "club": "PSG"
+  },
+  {
+    "pos": "DEF",
+    "tier": "T1",
+    "base": 30,
+    "name": "William Saliba",
+    "club": "ARS"
+  },
+  {
+    "pos": "DEF",
+    "tier": "T1",
+    "base": 30,
+    "name": "Virgil van Dijk",
+    "club": "LIV"
+  },
+  {
+    "pos": "DEF",
+    "tier": "T1",
+    "base": 30,
+    "name": "Nuno Mendes",
+    "club": "PSG"
+  },
+  {
+    "pos": "DEF",
+    "tier": "T1",
+    "base": 30,
+    "name": "Alessandro Bastoni",
+    "club": "INT"
+  },
+  {
+    "pos": "DEF",
+    "tier": "T1",
+    "base": 30,
+    "name": "Antonio Rüdiger",
+    "club": "RMA"
+  },
+  {
+    "pos": "DEF",
+    "tier": "T1",
+    "base": 30,
+    "name": "Rúben Dias",
+    "club": "MCI"
+  },
+  {
+    "pos": "DEF",
+    "tier": "T1",
+    "base": 30,
+    "name": "Jules Koundé",
+    "club": "FCB"
+  },
+  {
+    "pos": "DEF",
+    "tier": "T1",
+    "base": 30,
+    "name": "Marquinhos",
+    "club": "PSG"
+  },
+  {
+    "pos": "DEF",
+    "tier": "T1",
+    "base": 30,
+    "name": "Theo Hernández",
+    "club": "MIL"
+  },
+  {
+    "pos": "GK",
+    "tier": "T1",
+    "base": 30,
+    "name": "Gianluigi Donnarumma",
+    "club": "MCI"
+  },
+  {
+    "pos": "GK",
+    "tier": "T1",
+    "base": 30,
+    "name": "Alisson",
+    "club": "LIV"
+  },
+  {
+    "pos": "GK",
+    "tier": "T1",
+    "base": 30,
+    "name": "Thibaut Courtois",
+    "club": "RMA"
+  },
+  {
+    "pos": "GK",
+    "tier": "T1",
+    "base": 30,
+    "name": "David Raya",
+    "club": "ARS"
+  },
+  {
+    "pos": "GK",
+    "tier": "T1",
+    "base": 30,
+    "name": "Manuel Neuer",
+    "club": "BAY"
+  },
+  {
+    "pos": "FWD",
+    "tier": "T2",
+    "base": 20,
+    "name": "Robert Lewandowski",
+    "club": "FCB"
+  },
+  {
+    "pos": "FWD",
+    "tier": "T2",
+    "base": 20,
+    "name": "Alexander Isak",
+    "club": "LIV"
+  },
+  {
+    "pos": "FWD",
+    "tier": "T2",
+    "base": 20,
+    "name": "Julián Álvarez",
+    "club": "ATM"
+  },
+  {
+    "pos": "FWD",
+    "tier": "T2",
+    "base": 20,
+    "name": "Viktor Gyökeres",
+    "club": "ARS"
+  },
+  {
+    "pos": "FWD",
+    "tier": "T2",
+    "base": 20,
+    "name": "Luis Díaz",
+    "club": "BAY"
+  },
+  {
+    "pos": "FWD",
+    "tier": "T2",
+    "base": 20,
+    "name": "Rafael Leão",
+    "club": "MIL"
+  },
+  {
+    "pos": "FWD",
+    "tier": "T2",
+    "base": 20,
+    "name": "Bradley Barcola",
+    "club": "PSG"
+  },
+  {
+    "pos": "FWD",
+    "tier": "T2",
+    "base": 20,
+    "name": "Désiré Doué",
+    "club": "PSG"
+  },
+  {
+    "pos": "FWD",
+    "tier": "T2",
+    "base": 20,
+    "name": "Marcus Thuram",
+    "club": "INT"
+  },
+  {
+    "pos": "FWD",
+    "tier": "T2",
+    "base": 20,
+    "name": "Nico Williams",
+    "club": "ATH"
+  },
+  {
+    "pos": "MDF",
+    "tier": "T2",
+    "base": 20,
+    "name": "Frenkie de Jong",
+    "club": "FCB"
+  },
+  {
+    "pos": "MDF",
+    "tier": "T2",
+    "base": 20,
+    "name": "Bernardo Silva",
+    "club": "MCI"
+  },
+  {
+    "pos": "MDF",
+    "tier": "T2",
+    "base": 20,
+    "name": "Bruno Fernandes",
+    "club": "MUN"
+  },
+  {
+    "pos": "MDF",
+    "tier": "T2",
+    "base": 20,
+    "name": "Martin Ødegaard",
+    "club": "ARS"
+  },
+  {
+    "pos": "MDF",
+    "tier": "T2",
+    "base": 20,
+    "name": "Enzo Fernández",
+    "club": "CHE"
+  },
+  {
+    "pos": "MDF",
+    "tier": "T2",
+    "base": 20,
+    "name": "Alexis Mac Allister",
+    "club": "LIV"
+  },
+  {
+    "pos": "MDF",
+    "tier": "T2",
+    "base": 20,
+    "name": "João Neves",
+    "club": "PSG"
+  },
+  {
+    "pos": "MDF",
+    "tier": "T2",
+    "base": 20,
+    "name": "Hakan Çalhanoğlu",
+    "club": "INT"
+  },
+  {
+    "pos": "MDF",
+    "tier": "T2",
+    "base": 20,
+    "name": "Aurélien Tchouaméni",
+    "club": "RMA"
+  },
+  {
+    "pos": "MDF",
+    "tier": "T2",
+    "base": 20,
+    "name": "Eduardo Camavinga",
+    "club": "RMA"
+  },
+  {
+    "pos": "DEF",
+    "tier": "T2",
+    "base": 20,
+    "name": "Ibrahima Konaté",
+    "club": "LIV"
+  },
+  {
+    "pos": "DEF",
+    "tier": "T2",
+    "base": 20,
+    "name": "Pau Cubarsí",
+    "club": "FCB"
+  },
+  {
+    "pos": "DEF",
+    "tier": "T2",
+    "base": 20,
+    "name": "William Pacho",
+    "club": "PSG"
+  },
+  {
+    "pos": "DEF",
+    "tier": "T2",
+    "base": 20,
+    "name": "Dayot Upamecano",
+    "club": "BAY"
+  },
+  {
+    "pos": "DEF",
+    "tier": "T2",
+    "base": 20,
+    "name": "Federico Dimarco",
+    "club": "INT"
+  },
+  {
+    "pos": "DEF",
+    "tier": "T2",
+    "base": 20,
+    "name": "Denzel Dumfries",
+    "club": "INT"
+  },
+  {
+    "pos": "DEF",
+    "tier": "T2",
+    "base": 20,
+    "name": "Reece James",
+    "club": "CHE"
+  },
+  {
+    "pos": "DEF",
+    "tier": "T2",
+    "base": 20,
+    "name": "Levi Colwill",
+    "club": "CHE"
+  },
+  {
+    "pos": "DEF",
+    "tier": "T2",
+    "base": 20,
+    "name": "Matthijs de Ligt",
+    "club": "MUN"
+  },
+  {
+    "pos": "DEF",
+    "tier": "T2",
+    "base": 20,
+    "name": "João Cancelo",
+    "club": "ALH"
+  },
+  {
+    "pos": "GK",
+    "tier": "T2",
+    "base": 20,
+    "name": "Mike Maignan",
+    "club": "MIL"
+  },
+  {
+    "pos": "GK",
+    "tier": "T2",
+    "base": 20,
+    "name": "Marc-André ter Stegen",
+    "club": "FCB"
+  },
+  {
+    "pos": "GK",
+    "tier": "T2",
+    "base": 20,
+    "name": "Emiliano Martínez",
+    "club": "AVL"
+  },
+  {
+    "pos": "GK",
+    "tier": "T2",
+    "base": 20,
+    "name": "Jan Oblak",
+    "club": "ATM"
+  },
+  {
+    "pos": "GK",
+    "tier": "T2",
+    "base": 20,
+    "name": "Diogo Costa",
+    "club": "POR"
+  },
+  {
+    "pos": "FWD",
+    "tier": "T3",
+    "base": 10,
+    "name": "Victor Osimhen",
+    "club": "GAL"
+  },
+  {
+    "pos": "FWD",
+    "tier": "T3",
+    "base": 10,
+    "name": "Victor Boniface",
+    "club": "LEV"
+  },
+  {
+    "pos": "FWD",
+    "tier": "T3",
+    "base": 10,
+    "name": "Dušan Vlahović",
+    "club": "JUV"
+  },
+  {
+    "pos": "FWD",
+    "tier": "T3",
+    "base": 10,
+    "name": "Benjamin Šeško",
+    "club": "MUN"
+  },
+  {
+    "pos": "FWD",
+    "tier": "T3",
+    "base": 10,
+    "name": "Ollie Watkins",
+    "club": "AVL"
+  },
+  {
+    "pos": "FWD",
+    "tier": "T3",
+    "base": 10,
+    "name": "Antoine Griezmann",
+    "club": "ATM"
+  },
+  {
+    "pos": "FWD",
+    "tier": "T3",
+    "base": 10,
+    "name": "Son Heung-min",
+    "club": "LAFC"
+  },
+  {
+    "pos": "FWD",
+    "tier": "T3",
+    "base": 10,
+    "name": "Rodrygo",
+    "club": "RMA"
+  },
+  {
+    "pos": "FWD",
+    "tier": "T3",
+    "base": 10,
+    "name": "Gabriel Martinelli",
+    "club": "ARS"
+  },
+  {
+    "pos": "FWD",
+    "tier": "T3",
+    "base": 10,
+    "name": "Ferran Torres",
+    "club": "FCB"
+  },
+  {
+    "pos": "MDF",
+    "tier": "T3",
+    "base": 10,
+    "name": "Joshua Kimmich",
+    "club": "BAY"
+  },
+  {
+    "pos": "MDF",
+    "tier": "T3",
+    "base": 10,
+    "name": "Nicolò Barella",
+    "club": "INT"
+  },
+  {
+    "pos": "MDF",
+    "tier": "T3",
+    "base": 10,
+    "name": "Bruno Guimarães",
+    "club": "NEW"
+  },
+  {
+    "pos": "MDF",
+    "tier": "T3",
+    "base": 10,
+    "name": "João Palhinha",
+    "club": "TOT"
+  },
+  {
+    "pos": "MDF",
+    "tier": "T3",
+    "base": 10,
+    "name": "Warren Zaïre-Emery",
+    "club": "PSG"
+  },
+  {
+    "pos": "MDF",
+    "tier": "T3",
+    "base": 10,
+    "name": "Ryan Gravenberch",
+    "club": "LIV"
+  },
+  {
+    "pos": "MDF",
+    "tier": "T3",
+    "base": 10,
+    "name": "Dominik Szoboszlai",
+    "club": "LIV"
+  },
+  {
+    "pos": "MDF",
+    "tier": "T3",
+    "base": 10,
+    "name": "Tijjani Reijnders",
+    "club": "MCI"
+  },
+  {
+    "pos": "MDF",
+    "tier": "T3",
+    "base": 10,
+    "name": "Sandro Tonali",
+    "club": "NEW"
+  },
+  {
+    "pos": "MDF",
+    "tier": "T3",
+    "base": 10,
+    "name": "Fabián Ruiz",
+    "club": "PSG"
+  },
+  {
+    "pos": "DEF",
+    "tier": "T3",
+    "base": 10,
+    "name": "Gabriel Magalhães",
+    "club": "ARS"
+  },
+  {
+    "pos": "DEF",
+    "tier": "T3",
+    "base": 10,
+    "name": "Marc Cucurella",
+    "club": "CHE"
+  },
+  {
+    "pos": "DEF",
+    "tier": "T3",
+    "base": 10,
+    "name": "Lisandro Martínez",
+    "club": "MUN"
+  },
+  {
+    "pos": "DEF",
+    "tier": "T3",
+    "base": 10,
+    "name": "Kim Min-jae",
+    "club": "BAY"
+  },
+  {
+    "pos": "DEF",
+    "tier": "T3",
+    "base": 10,
+    "name": "Ronald Araújo",
+    "club": "FCB"
+  },
+  {
+    "pos": "DEF",
+    "tier": "T3",
+    "base": 10,
+    "name": "Benjamin Pavard",
+    "club": "INT"
+  },
+  {
+    "pos": "DEF",
+    "tier": "T3",
+    "base": 10,
+    "name": "Milan Škriniar",
+    "club": "PSG"
+  },
+  {
+    "pos": "DEF",
+    "tier": "T3",
+    "base": 10,
+    "name": "Alphonso Davies",
+    "club": "BAY"
+  },
+  {
+    "pos": "DEF",
+    "tier": "T3",
+    "base": 10,
+    "name": "Andrew Robertson",
+    "club": "LIV"
+  },
+  {
+    "pos": "DEF",
+    "tier": "T3",
+    "base": 10,
+    "name": "Pau Torres",
+    "club": "AVL"
+  },
+  {
+    "pos": "GK",
+    "tier": "T3",
+    "base": 10,
+    "name": "André Onana",
+    "club": "MUN"
+  },
+  {
+    "pos": "GK",
+    "tier": "T3",
+    "base": 10,
+    "name": "Yann Sommer",
+    "club": "INT"
+  },
+  {
+    "pos": "GK",
+    "tier": "T3",
+    "base": 10,
+    "name": "Gregor Kobel",
+    "club": "BVB"
+  },
+  {
+    "pos": "GK",
+    "tier": "T3",
+    "base": 10,
+    "name": "Unai Simón",
+    "club": "ATH"
+  },
+  {
+    "pos": "GK",
+    "tier": "T3",
+    "base": 10,
+    "name": "Gianluigi Vicario",
+    "club": "TOT"
+  }
+]
