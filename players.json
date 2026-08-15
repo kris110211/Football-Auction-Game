@@ -1,0 +1,989 @@
+[
+  {
+    "name": "Kylian Mbappé",
+    "club": "—",
+    "pos": "FWD",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Erling Haaland",
+    "club": "—",
+    "pos": "FWD",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Lamine Yamal",
+    "club": "—",
+    "pos": "FWD",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Ousmane Dembélé",
+    "club": "—",
+    "pos": "FWD",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Harry Kane",
+    "club": "—",
+    "pos": "FWD",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Vinícius Júnior",
+    "club": "—",
+    "pos": "FWD",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Mohamed Salah",
+    "club": "—",
+    "pos": "FWD",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Raphinha",
+    "club": "—",
+    "pos": "FWD",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Khvicha Kvaratskhelia",
+    "club": "—",
+    "pos": "FWD",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Bukayo Saka",
+    "club": "—",
+    "pos": "FWD",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Julián Álvarez",
+    "club": "—",
+    "pos": "FWD",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Luiz Diaz",
+    "club": "—",
+    "pos": "FWD",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Rodrygo",
+    "club": "—",
+    "pos": "FWD",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Rodri",
+    "club": "—",
+    "pos": "MDF",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Jude Bellingham",
+    "club": "—",
+    "pos": "MDF",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Pedri",
+    "club": "—",
+    "pos": "MDF",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Vitinha",
+    "club": "—",
+    "pos": "MDF",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Florian Wirtz",
+    "club": "—",
+    "pos": "MDF",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Jamal Musiala",
+    "club": "—",
+    "pos": "MDF",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Declan Rice",
+    "club": "—",
+    "pos": "MDF",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Federico Valverde",
+    "club": "—",
+    "pos": "MDF",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Bruno Fernandes",
+    "club": "—",
+    "pos": "MDF",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Michael Olise",
+    "club": "—",
+    "pos": "MDF",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Joao Neves",
+    "club": "—",
+    "pos": "MDF",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Nicolo Barella",
+    "club": "—",
+    "pos": "MDF",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Joshua Kimmich",
+    "club": "—",
+    "pos": "MDF",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Achraf Hakimi",
+    "club": "—",
+    "pos": "DEF",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "William Saliba",
+    "club": "—",
+    "pos": "DEF",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Virgil van Dijk",
+    "club": "—",
+    "pos": "DEF",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Nuno Mendes",
+    "club": "—",
+    "pos": "DEF",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Alessandro Bastoni",
+    "club": "—",
+    "pos": "DEF",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Wilian Pacho",
+    "club": "—",
+    "pos": "DEF",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Rúben Dias",
+    "club": "—",
+    "pos": "DEF",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Jules Koundé",
+    "club": "—",
+    "pos": "DEF",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Marquinhos",
+    "club": "—",
+    "pos": "DEF",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Theo Hernández",
+    "club": "—",
+    "pos": "DEF",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Trent Alexander-Arnold",
+    "club": "—",
+    "pos": "DEF",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Dayot Upamecano",
+    "club": "—",
+    "pos": "DEF",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Gabriel",
+    "club": "—",
+    "pos": "DEF",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Gianluigi Donnarumma",
+    "club": "—",
+    "pos": "GK",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Alisson",
+    "club": "—",
+    "pos": "GK",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Thibaut Courtois",
+    "club": "—",
+    "pos": "GK",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "David Raya",
+    "club": "—",
+    "pos": "GK",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Gregor Kobel",
+    "club": "—",
+    "pos": "GK",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Mike Maignan",
+    "club": "—",
+    "pos": "GK",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Emiliano Martínez",
+    "club": "—",
+    "pos": "GK",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Marc-André ter Stegen",
+    "club": "—",
+    "pos": "GK",
+    "tier": "TIER 1",
+    "base": 30
+  },
+  {
+    "name": "Robert Lewandowski",
+    "club": "—",
+    "pos": "FWD",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Alexander Isak",
+    "club": "—",
+    "pos": "FWD",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Heung Min Son",
+    "club": "—",
+    "pos": "FWD",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Viktor Gyökeres",
+    "club": "—",
+    "pos": "FWD",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Phil Foden",
+    "club": "—",
+    "pos": "FWD",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Rafael Leão",
+    "club": "—",
+    "pos": "FWD",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Bradley Barcola",
+    "club": "—",
+    "pos": "FWD",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Désiré Doué",
+    "club": "—",
+    "pos": "FWD",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Marcus Thuram",
+    "club": "—",
+    "pos": "FWD",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Nico Williams",
+    "club": "—",
+    "pos": "FWD",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Victor Osimhen",
+    "club": "—",
+    "pos": "FWD",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Ollie Watkins",
+    "club": "—",
+    "pos": "FWD",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Dušan Vlahović",
+    "club": "—",
+    "pos": "FWD",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Frenkie de Jong",
+    "club": "—",
+    "pos": "MDF",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Bernardo Silva",
+    "club": "—",
+    "pos": "MDF",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Cole Palmer",
+    "club": "—",
+    "pos": "MDF",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Martin Ødegaard",
+    "club": "—",
+    "pos": "MDF",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Enzo Fernández",
+    "club": "—",
+    "pos": "MDF",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Alexis Mac Allister",
+    "club": "—",
+    "pos": "MDF",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Kevin De Bruyne",
+    "club": "—",
+    "pos": "MDF",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Hakan Çalhanoğlu",
+    "club": "—",
+    "pos": "MDF",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Aurélien Tchouaméni",
+    "club": "—",
+    "pos": "MDF",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Eduardo Camavinga",
+    "club": "—",
+    "pos": "MDF",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Martin Zubimendi",
+    "club": "—",
+    "pos": "MDF",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Bruno Guimarães",
+    "club": "—",
+    "pos": "MDF",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Sandro Tonali",
+    "club": "—",
+    "pos": "MDF",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Ibrahima Konaté",
+    "club": "—",
+    "pos": "DEF",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Pau Cubarsí",
+    "club": "—",
+    "pos": "DEF",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Antonio Rudiger",
+    "club": "—",
+    "pos": "DEF",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "John Stones",
+    "club": "—",
+    "pos": "DEF",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Federico Dimarco",
+    "club": "—",
+    "pos": "DEF",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Denzel Dumfries",
+    "club": "—",
+    "pos": "DEF",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Reece James",
+    "club": "—",
+    "pos": "DEF",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Levi Colwill",
+    "club": "—",
+    "pos": "DEF",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Matthijs de Ligt",
+    "club": "—",
+    "pos": "DEF",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "João Cancelo",
+    "club": "—",
+    "pos": "DEF",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Ronald Araujo",
+    "club": "—",
+    "pos": "DEF",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Alphonso Davies",
+    "club": "—",
+    "pos": "DEF",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Andrew Robertson",
+    "club": "—",
+    "pos": "DEF",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Ederson",
+    "club": "—",
+    "pos": "GK",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Diogo Costa",
+    "club": "—",
+    "pos": "GK",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Jan Oblak",
+    "club": "—",
+    "pos": "GK",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Unai Simón",
+    "club": "—",
+    "pos": "GK",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Yann Sommer",
+    "club": "—",
+    "pos": "GK",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "André Onana",
+    "club": "—",
+    "pos": "GK",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Gianluigi Vicario",
+    "club": "—",
+    "pos": "GK",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Manuel Neuer",
+    "club": "—",
+    "pos": "GK",
+    "tier": "TIER 2",
+    "base": 20
+  },
+  {
+    "name": "Victor Boniface",
+    "club": "—",
+    "pos": "FWD",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Benjamin Šeško",
+    "club": "—",
+    "pos": "FWD",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Antoine Griezmann",
+    "club": "—",
+    "pos": "FWD",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Gabriel Martinelli",
+    "club": "—",
+    "pos": "FWD",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Ferran Torres",
+    "club": "—",
+    "pos": "FWD",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Darwin Núñez",
+    "club": "—",
+    "pos": "FWD",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Marcus Rashford",
+    "club": "—",
+    "pos": "FWD",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Kai Havertz",
+    "club": "—",
+    "pos": "FWD",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Rasmus Højlund",
+    "club": "—",
+    "pos": "FWD",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Dominic Solanke",
+    "club": "—",
+    "pos": "FWD",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Jonathan David",
+    "club": "—",
+    "pos": "FWD",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Ademola Lookman",
+    "club": "—",
+    "pos": "FWD",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Serhou Guirassy",
+    "club": "—",
+    "pos": "FWD",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Warren Zaïre-Emery",
+    "club": "—",
+    "pos": "MDF",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Ryan Gravenberch",
+    "club": "—",
+    "pos": "MDF",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Dominik Szoboszlai",
+    "club": "—",
+    "pos": "MDF",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Tijjani Reijnders",
+    "club": "—",
+    "pos": "MDF",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Fabián Ruiz",
+    "club": "—",
+    "pos": "MDF",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "João Palhinha",
+    "club": "—",
+    "pos": "MDF",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Teun Koopmeiners",
+    "club": "—",
+    "pos": "MDF",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Conor Gallagher",
+    "club": "—",
+    "pos": "MDF",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Mikel Merino",
+    "club": "—",
+    "pos": "MDF",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "James Maddison",
+    "club": "—",
+    "pos": "MDF",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Curtis Jones",
+    "club": "—",
+    "pos": "MDF",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Mason Mount",
+    "club": "—",
+    "pos": "MDF",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Marcel Sabitzer",
+    "club": "—",
+    "pos": "MDF",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Marc Cucurella",
+    "club": "—",
+    "pos": "DEF",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Lisandro Martínez",
+    "club": "—",
+    "pos": "DEF",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Kim Min-jae",
+    "club": "—",
+    "pos": "DEF",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Benjamin Pavard",
+    "club": "—",
+    "pos": "DEF",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Milan Škriniar",
+    "club": "—",
+    "pos": "DEF",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Pau Torres",
+    "club": "—",
+    "pos": "DEF",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Jarrad Branthwaite",
+    "club": "—",
+    "pos": "DEF",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Jonathan Tah",
+    "club": "—",
+    "pos": "DEF",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Lucas Hernández",
+    "club": "—",
+    "pos": "DEF",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Nico Schlotterbeck",
+    "club": "—",
+    "pos": "DEF",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Fikayo Tomori",
+    "club": "—",
+    "pos": "DEF",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Noussair Mazraoui",
+    "club": "—",
+    "pos": "DEF",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Aymeric Laporte",
+    "club": "—",
+    "pos": "DEF",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Caoimhin Kelleher",
+    "club": "—",
+    "pos": "GK",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "David de Gea",
+    "club": "—",
+    "pos": "GK",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Aaron Ramsdale",
+    "club": "—",
+    "pos": "GK",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Jordan Pickford",
+    "club": "—",
+    "pos": "GK",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Robert Sánchez",
+    "club": "—",
+    "pos": "GK",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Kepa Arrizabalaga",
+    "club": "—",
+    "pos": "GK",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Bernd Leno",
+    "club": "—",
+    "pos": "GK",
+    "tier": "TIER 3",
+    "base": 10
+  },
+  {
+    "name": "Rui Patrício",
+    "club": "—",
+    "pos": "GK",
+    "tier": "TIER 3",
+    "base": 10
+  }
+]
